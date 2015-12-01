@@ -1,8 +1,6 @@
 Zork: Extensions for Zend Framework 2
 =====================================
 
-[![Build Status](https://travis-ci.org/gridguyz/zork.png?branch=master)](https://travis-ci.org/gridguyz/zork)
-
 Zork extends Zend Framework 2 by:
 
 * Lots of service factories
@@ -21,5 +19,5 @@ Zork extends Zend Framework 2 by:
 License
 -------
 
-Zork is under **Creative Commons Attribution-ShareAlike 3.0** (cc-by-sa-3.0).
+Zork is under **BSD 3-Clause** (BSD-3-Clause).
 More info at [LICENSE.txt](LICENSE.txt).
