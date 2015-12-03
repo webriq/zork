@@ -21,5 +21,5 @@ Zork extends Zend Framework 2 by:
 License
 -------
 
-Zork is under **Creative Commons Attribution-ShareAlike 3.0** (cc-by-sa-3.0).
+Zork is under BSD License.
 More info at [LICENSE.txt](LICENSE.txt).
